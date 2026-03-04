@@ -9,7 +9,6 @@ function NotFound(){
         <Link  className="btn btn-danger" to="/" >Home</Link>
         </>
 
-
     );
 }
 
